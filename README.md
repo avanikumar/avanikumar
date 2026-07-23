@@ -76,18 +76,7 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 <img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avanikumar&show_icons=true&theme=default&hide_border=true" alt="Avani's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanikumar&layout=compact&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
 
 ## Contact
 
