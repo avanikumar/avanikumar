@@ -2,7 +2,7 @@
 
 # Avani Kumar
 
-**B.E. in Electronics and Communication Engineering | Gujarat Technical University**
+**B.tech in Electronics and Communication Engineering | Gujarat Technical University**
 
 <a href="https://linkedin.com/in/avxnikumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/avanikumar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -14,7 +14,7 @@
 
 ## About
 
-Undergraduate in Electronics and Communication Engineering at **Gujarat Technical University**, focused on machine learning engineering from data preprocessing and model selection to building explainable, deployable ML systems. I care about writing ML code that's structured, interpretable, and ready to ship, not just accurate in a notebook.
+Undergraduate in Electronics and Communication Engineering at **Gujarat Technical University**, focused on machine learning engineering — from data preprocessing and model selection to building explainable, deployable ML systems. I care about writing ML code that's structured, interpretable, and ready to ship, not just accurate in a notebook.
 
 Open to **Machine Learning internships**, **Data Science roles**, and **applied AI positions** in predictive analytics and MLOps.
 
@@ -76,7 +76,18 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 <img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
+---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=avanikumar&show_icons=true&theme=default&hide_border=true" alt="Avani's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanikumar&layout=compact&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
 
 ## Contact
 
@@ -86,6 +97,6 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 <div align="center">
 
-*B.E. in Electronics and Communication Engineering | Gujarat Technical University | Batch of 2027*
+*B.tech in Electronics and Communication Engineering | Gujarat Technical University | Batch of 2027*
 
 </div>
