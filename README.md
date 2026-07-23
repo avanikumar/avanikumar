@@ -32,7 +32,7 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
-### [House Price Prediction System](https://github.com/avanikumar/house-price-prediction) `June 2026 - July 2026`
+### [House Price Prediction System](https://github.com/avanikumar/house-price-prediction) &nbsp;<sub><i>June 2026 - July 2026</i></sub>
 
 Regression pipeline predicting housing prices using structured feature engineering and model comparison.
 
@@ -40,11 +40,11 @@ Regression pipeline predicting housing prices using structured feature engineeri
 - Performed data cleaning, EDA, and feature engineering on housing data (bedrooms, square footage, location, waterfront, condition)
 - Evaluated performance using R² score to select the best-performing model
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
+<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Pandas-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/NumPy-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Matplotlib-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Seaborn-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Scikit--learn-f5f5f5?style=flat-square&logoColor=333"/>
 
 ---
 
-### Enterprise Customer Churn Intelligence Platform `July 2026 - Present`
+### Enterprise Customer Churn Intelligence Platform &nbsp;<sub><i>July 2026 - Present</i></sub>
 
 End-to-end churn intelligence platform that goes beyond prediction into prescriptive business recommendations.
 
@@ -52,7 +52,7 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 - Used SHAP to surface key churn drivers (usage drop, inactivity, support complaints) in a way non-technical users can understand
 - Built a FastAPI/Streamlit dashboard displaying churn predictions and suggested retention actions
 
-`Python` `XGBoost` `LightGBM` `CatBoost` `SHAP` `FastAPI` `MLflow` `Docker`
+<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/XGBoost-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/LightGBM-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/CatBoost-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/SHAP-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/FastAPI-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/MLflow-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Docker-f5f5f5?style=flat-square&logoColor=333"/>
 
 ---
 
