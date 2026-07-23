@@ -91,7 +91,7 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 ## Contact
 
-<img src="https://img.shields.io/badge/Email-avani.rkumar5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-avxnikumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-avanikumar-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-avani.rkumar5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-avxnikumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 
 ---
 
