@@ -32,7 +32,7 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
-### [House Price Prediction System](https://github.com/avanikumar/house-price-prediction) &nbsp;<sub><i>June 2026 - July 2026</i></sub>
+### <a href="https://github.com/avanikumar/house-price-prediction" style="color:#0969da; text-decoration:underline;">House Price Prediction System</a> &nbsp;<img src="https://img.shields.io/badge/June%202026%20--%20July%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
 Regression pipeline predicting housing prices using structured feature engineering and model comparison.
 
@@ -44,7 +44,7 @@ Regression pipeline predicting housing prices using structured feature engineeri
 
 ---
 
-### Enterprise Customer Churn Intelligence Platform &nbsp;<sub><i>July 2026 - Present</i></sub>
+### <a href="https://github.com/avanikumar/customer-churn-intelligence-platform" style="color:#0969da; text-decoration:underline;">Enterprise Customer Churn Intelligence Platform</a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
 
 End-to-end churn intelligence platform that goes beyond prediction into prescriptive business recommendations.
 
