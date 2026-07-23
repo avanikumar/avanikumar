@@ -32,7 +32,7 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
-### <a href="https://github.com/avanikumar/house-price-prediction" style="color:#0969da; text-decoration:underline;">House Price Prediction System</a> &nbsp;<img src="https://img.shields.io/badge/June%202026%20--%20July%202026-f5f5f5?style=flat-square&logoColor=333"/>
+### <a href="https://github.com/avanikumar/house-price-prediction"><u>House Price Prediction System</u></a> &nbsp;<img src="https://img.shields.io/badge/June%202026%20--%20July%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
 Regression pipeline predicting housing prices using structured feature engineering and model comparison.
 
@@ -44,7 +44,7 @@ Regression pipeline predicting housing prices using structured feature engineeri
 
 ---
 
-### <a href="https://github.com/avanikumar/customer-churn-intelligence-platform" style="color:#0969da; text-decoration:underline;">Enterprise Customer Churn Intelligence Platform</a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
+### <a href="https://github.com/avanikumar/customer-churn-intelligence-platform"><u>Enterprise Customer Churn Intelligence Platform</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
 
 End-to-end churn intelligence platform that goes beyond prediction into prescriptive business recommendations.
 
@@ -76,18 +76,7 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 <img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avanikumar&show_icons=true&theme=default&hide_border=true" alt="Avani's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanikumar&layout=compact&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
 
 ## Contact
 
