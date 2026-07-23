@@ -14,7 +14,7 @@
 
 ## About
 
-Undergraduate in Electronics and Communication Engineering at **Gujarat Technical University**, focused on machine learning engineering — from data preprocessing and model selection to building explainable, deployable ML systems. I care about writing ML code that's structured, interpretable, and ready to ship, not just accurate in a notebook.
+Undergraduate in Electronics and Communication Engineering at **Gujarat Technical University**, focused on machine learning engineering from data preprocessing and model selection to building explainable, deployable ML systems. I care about writing ML code that's structured, interpretable, and ready to ship, not just accurate in a notebook.
 
 Open to **Machine Learning internships**, **Data Science roles**, and **applied AI positions** in predictive analytics and MLOps.
 
