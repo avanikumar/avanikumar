@@ -86,6 +86,6 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 <div align="center">
 
-*B.tech in Electronics and Communication Engineering | Gujarat Technical University | Batch of 2027*
+*B.tech in Electronics and Communication Engineering | Gujarat Technological University | Batch of 2027*
 
 </div>
