@@ -74,7 +74,7 @@ End-to-end churn intelligence platform that goes beyond prediction into prescrip
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/Kaggle-Machine%20Learning-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20%26%20AI%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
 
 
