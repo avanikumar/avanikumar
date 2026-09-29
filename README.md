@@ -32,7 +32,7 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
-### <a href="https://github.com/avanikumar/sycophancy-steering-resistance-replication"><u>Sycophancy and Steering Resistance Replication</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20August%202026-f5f5f5?style=flat-square&logoColor=333"/>
+### <a href="https://github.com/avanikumar/sycophancy-eval-mini"><u>Sycophancy and Steering Resistance Replication</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20August%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
 Replication of Anthropic's "are-you-sure" sycophancy test, connecting behavioral results to interpretability research.
 
