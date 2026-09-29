@@ -32,27 +32,27 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
-### <a href="https://github.com/avanikumar/house-price-prediction"><u>House Price Prediction System</u></a> &nbsp;<img src="https://img.shields.io/badge/June%202026%20--%20July%202026-f5f5f5?style=flat-square&logoColor=333"/>
+### <a href="https://github.com/avanikumar/sycophancy-steering-resistance-replication"><u>Sycophancy and Steering Resistance Replication</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20August%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
-Regression pipeline predicting housing prices using structured feature engineering and model comparison.
+Replication of Anthropic's "are-you-sure" sycophancy test, connecting behavioral results to interpretability research.
 
-- **87% accuracy**, surpassing the initial 70% target, using Linear Regression and Gradient Boosting Regressor
-- Performed data cleaning, EDA, and feature engineering on housing data (bedrooms, square footage, location, waterfront, condition)
-- Evaluated performance using R² score to select the best-performing model
+- Replicated the test on **22 coding questions** across Claude and ChatGPT, measuring how often models reverse correct answers under social pushback
+- Found Claude reversed **1/22** answers and ChatGPT **0/22**, contrasting sharply with the **95%** reversal rate reported for Claude 1.3 in the original 2023 study, suggesting robustness to behavioral pressure has increased substantially
+- Connected findings to Anthropic's "Steering Resistance" interpretability work, proposing that mechanistic self-correction circuits may correlate with behavioral robustness to social pressure
 
-<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Pandas-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/NumPy-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Matplotlib-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Seaborn-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Scikit--learn-f5f5f5?style=flat-square&logoColor=333"/>
+<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/OpenAI%20API-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Anthropic%20API-f5f5f5?style=flat-square&logoColor=333"/>
 
 ---
 
-### <a href="https://github.com/avanikumar/customer-churn-intelligence-platform"><u>Enterprise Customer Churn Intelligence Platform</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
+### <a href="https://github.com/avanikumar/minirobust-lm"><u>MiniRobust-LM: Adversarially Robust Compact LLM</u></a> &nbsp;<img src="https://img.shields.io/badge/Sept%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
 
-End-to-end churn intelligence platform that goes beyond prediction into prescriptive business recommendations.
+Compact, adversarially hardened language model built to stay small, fast, and resistant to attacks.
 
-- Architected a churn prediction system using **LightGBM** and **CatBoost**, paired with SHAP-based explainability for every prediction
-- Used SHAP to surface key churn drivers (usage drop, inactivity, support complaints) in a way non-technical users can understand
-- Built a FastAPI/Streamlit dashboard displaying churn predictions and suggested retention actions
+- Fine-tuning **Mistral-1B** with **LoRA** on instruction data, applying adversarial robustness training via **PGD** and **TextFooler** attacks to harden the model against prompt injection and jailbreaks
+- Applying **GPTQ 4-bit quantization** targeting **<500MB** model size while maintaining **<5% accuracy drop** on MMLU, using bitsandbytes and auto-gptq
+- Training a **ResNet-18** classifier from scratch on CIFAR-10 with PGD adversarial training, measuring the clean vs robust accuracy tradeoff and resolving loss spikes, overfitting, and slow convergence, with full experiment tracking via Weights & Biases
 
-<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/XGBoost-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/LightGBM-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/CatBoost-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/SHAP-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/FastAPI-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/MLflow-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Docker-f5f5f5?style=flat-square&logoColor=333"/>
+<img src="https://img.shields.io/badge/PyTorch-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/HuggingFace%20PEFT-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/bitsandbytes-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/TextAttack-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Weights%20%26%20Biases-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/lm--evaluation--harness-f5f5f5?style=flat-square&logoColor=333"/>
 
 ---
 
