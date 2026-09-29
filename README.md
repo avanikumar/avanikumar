@@ -1,6 +1,6 @@
 <div align="center">
 
-# AVANI KUMAR
+# Avani Kumar
 
 **B.tech in Electronics and Communication Engineering | Gujarat Technological University**
 
