@@ -44,29 +44,6 @@ End-to-end churn prediction platform that goes beyond prediction to prescriptive
 
 ---
 
-### <a href="https://github.com/avanikumar/sycophancy-eval-mini"><u>Sycophancy and Steering Resistance Replication</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20August%202026-f5f5f5?style=flat-square&logoColor=333"/>
-
-Replication of Anthropic's "are-you-sure" sycophancy test, connecting behavioral results to interpretability research.
-
-- Replicated the test on **22 coding questions** across Claude and ChatGPT, measuring how often models reverse correct answers under social pushback
-- Found Claude reversed **1/22** answers and ChatGPT **0/22**, contrasting sharply with the **95%** reversal rate reported for Claude 1.3 in the original 2023 study, suggesting robustness to behavioral pressure has increased substantially
-- Connected findings to Anthropic's "Steering Resistance" interpretability work, proposing that mechanistic self-correction circuits may correlate with behavioral robustness to social pressure
-
-<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/OpenAI%20API-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Anthropic%20API-f5f5f5?style=flat-square&logoColor=333"/>
-
----
-
-### <a href="https://github.com/avanikumar/minirobust-lm"><u>MiniRobust-LM: Adversarially Robust Compact LLM</u></a> &nbsp;<img src="https://img.shields.io/badge/Sept%202026%20--%20Present-f5f5f5?style=flat-square&logoColor=333"/>
-
-Compact, adversarially hardened language model built to stay small, fast, and resistant to attacks.
-
-- Fine-tuning **Mistral-1B** with **LoRA** on instruction data, applying adversarial robustness training via **PGD** and **TextFooler** attacks to harden the model against prompt injection and jailbreaks
-- Applying **GPTQ 4-bit quantization** targeting **<500MB** model size while maintaining **<5% accuracy drop** on MMLU, using bitsandbytes and auto-gptq
-- Training a **ResNet-18** classifier from scratch on CIFAR-10 with PGD adversarial training, measuring the clean vs robust accuracy tradeoff and resolving loss spikes, overfitting, and slow convergence, with full experiment tracking via Weights & Biases
-
-<img src="https://img.shields.io/badge/PyTorch-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/HuggingFace%20PEFT-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/bitsandbytes-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/TextAttack-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Weights%20%26%20Biases-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/lm--evaluation--harness-f5f5f5?style=flat-square&logoColor=333"/>
-
----
 
 ### <a href="https://github.com/avanikumar/backbone-sycophancy-eval"><u>Backbone-Sycophancy Evaluation Toolkit</u></a> &nbsp;<img src="https://img.shields.io/badge/October%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
@@ -89,11 +66,11 @@ Async Python CLI that measures how often LLMs abandon correct answers under user
 
 **ML / DL**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-1a1a1a?style=flat-square"/> <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square"/> <img src="https://img.shields.io/badge/SHAP-4C1D95?style=flat-square"/>
 
 **Tools and Infrastructure**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 
 ---
 
