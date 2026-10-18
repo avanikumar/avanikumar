@@ -32,6 +32,18 @@ Open to **Machine Learning internships**, **Data Science roles**, and **applied 
 
 ## Featured Projects
 
+### <a href="https://github.com/avanikumar/CHURN-REPO-NAME"><u>Customer Churn Intelligence Platform</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026-f5f5f5?style=flat-square&logoColor=333"/>
+
+End-to-end churn prediction platform that goes beyond prediction to prescriptive retention strategy.
+
+- Architected an end-to-end platform that predicts churn risk using **LightGBM** and **CatBoost**, generates **SHAP-based** explanations, and produces **LLM-driven** recommendations
+- Used **SHAP** to identify the key reasons behind each customer's churn risk (e.g. drop in usage, inactivity, support complaints), making results understandable to non-technical users
+- Created a simple dashboard/API using **FastAPI** and **Streamlit** to display churn predictions and suggested retention actions
+
+<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/LightGBM-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/CatBoost-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/SHAP-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/FastAPI-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Streamlit-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Docker-f5f5f5?style=flat-square&logoColor=333"/>
+
+---
+
 ### <a href="https://github.com/avanikumar/sycophancy-eval-mini"><u>Sycophancy and Steering Resistance Replication</u></a> &nbsp;<img src="https://img.shields.io/badge/July%202026%20--%20August%202026-f5f5f5?style=flat-square&logoColor=333"/>
 
 Replication of Anthropic's "are-you-sure" sycophancy test, connecting behavioral results to interpretability research.
@@ -53,6 +65,19 @@ Compact, adversarially hardened language model built to stay small, fast, and re
 - Training a **ResNet-18** classifier from scratch on CIFAR-10 with PGD adversarial training, measuring the clean vs robust accuracy tradeoff and resolving loss spikes, overfitting, and slow convergence, with full experiment tracking via Weights & Biases
 
 <img src="https://img.shields.io/badge/PyTorch-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/HuggingFace%20PEFT-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/bitsandbytes-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/TextAttack-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Weights%20%26%20Biases-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/lm--evaluation--harness-f5f5f5?style=flat-square&logoColor=333"/>
+
+---
+
+### <a href="https://github.com/avanikumar/backbone-sycophancy-eval"><u>Backbone-Sycophancy Evaluation Toolkit</u></a> &nbsp;<img src="https://img.shields.io/badge/October%202026-f5f5f5?style=flat-square&logoColor=333"/>
+
+Async Python CLI that measures how often LLMs abandon correct answers under user pushback; extends my earlier "are-you-sure" replication.
+
+- Built an **async Python CLI** tracking **flip rate** and accuracy under leading and multi-turn challenges
+- Implemented **disk-based response caching** keyed by model, prompt and parameters, **retry with exponential backoff**, and **concurrency limiting** to make experiments fast, cheap and reproducible
+- Wrote **unit tests** with a mocked model provider and set up **GitHub Actions CI** to run them on every push
+- Ran a 22-question pilot on **gpt-oss-20b**: 1 of 21 correct answers flipped under pushback at baseline vs 0 of 22 with a system-prompt mitigation (within noise); audited graded outputs by hand and fixed a grader bug
+
+<img src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Asyncio-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/Pytest-f5f5f5?style=flat-square&logoColor=333"/> <img src="https://img.shields.io/badge/GitHub%20Actions-f5f5f5?style=flat-square&logoColor=333"/>
 
 ---
 
